@@ -1,0 +1,7 @@
+type, phone, address, name, category, first_name, last_name, email
+Person, 123456, qweqwe,,,Ivan, Ivanov, ii@mail.com
+Organization,12345,trewq,asdfgh,nbvcxz
+Person,65432,wert,jhgfcdxs,cvbn,;olkiuj,
+Organization,234567,werwt,fsfghfj,xcvcmg
+Organization,0661235467,Sumska st.8,A-level,ITSchool,,,
+Organization,0661235467,Sumska st.8,A-level,ITSchool,,,
